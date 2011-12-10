@@ -14,6 +14,7 @@ How to use
 Once installed with Alfred you can run the following commands
 
 
+    caff        ::  Toggle caffeine status (can also use 'caff toggle')
     caff on     ::  Turn caffeine on indefinitely
     caff 5      ::  Turn caffeine on for 5 minutes (the # can be changed to any number)
     caff off    ::  Turn caffeine off
@@ -32,6 +33,10 @@ Download
 
 
 ## Version History ##
+### 1.2.0 - December 9, 2011###
+
+- Toggle caffeine
+
 ### 1.1.0 - December 8, 2011###
 
 - Turn caffeine on for # minutes command modified: You no longer need
